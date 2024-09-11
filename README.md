@@ -118,6 +118,6 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 # Signature
 
-ФИО:Бабижаев Илья Александрович
+ФИО: Бабижаев Илья Александрович
 
-Группа:ИУ6-34Б
+Группа: ИУ6-34Б
